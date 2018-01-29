@@ -38,12 +38,12 @@ L'architecture MVC est notamment utilisée par **Ruby on Rails** pour la mise au
 ## Les routes
 
 Les routes interprètent les URLs afin d'orienter les requêtes des utilisateurs vers les bonnes actions du contrôleur. Elles doivent être mises en place dans le fichier config/routes.rb pour les sites réalisés avec le framework rails.
-Pour plus d'informations vous pouvez consulter le site de la documentation de rails sur les [routes](http://guides.rubyonrails.org/routing.html)
-<br />
+Pour plus d'informations vous pouvez consulter le site de la documentation de rails sur les [routes](http://guides.rubyonrails.org/routing.html).
+
 
 ## Les bases de données
 
-Une base de données est un ensemble de données stockées de façon structurée. Différentes données sont associées entre elles afin de faciliter leur accès ultérieur. Par exemple, un site internet peut stocker les adresses de ses utilisateurs associées à leurs noms. il suffit alors de disposer du nom de l'utilisateur pour accéder rapidement à son adresse.
+Une base de données est un **ensemble de données stockées de façon structurée**. Différentes données sont associées entre elles afin de faciliter leur accès ultérieur. Par exemple, un site internet peut stocker les adresses de ses utilisateurs associées à leurs noms. il suffit alors de disposer du nom de l'utilisateur pour accéder rapidement à son adresse.
 
 ## Get/POST
 
@@ -56,8 +56,8 @@ Le site de la documentation de rails consacre una article aux [migrations](http:
 
 ## Les relations entre les modèles et des BDD
 
-Les bases de données stockent l'information d'une façon rationnelle. Il existe plusieurs modèles d'organisation. On peut citer le modèle de base de données hiérarchique, le modèle document ou le schéma en étoile. Les principaux modèles sont listé sur ce [**site**] (https://www.lucidchart.com/pages/fr/quest-ce-quun-mod%C3%A8le-de-base-de-donn%C3%A9es)
-Le choix de tel ou tel modèle de base de données dépend d'une multitude de facteurs. On peut citer par exemple le type de données à stocker et la rapidité d'accès à l'information.
+Les bases de données stockent l'information d'une façon rationnelle. Il existe plusieurs modèles d'organisation. On peut citer le modèle de base de données hiérarchique, le modèle document ou le schéma en étoile. Les principaux modèles sont listés sur ce [**site**] (https://www.lucidchart.com/pages/fr/quest-ce-quun-mod%C3%A8le-de-base-de-donn%C3%A9es).
+Le choix de tel ou tel modèle de base de données dépend d'une multitude de facteurs. On peut citer par exemple le type de données à stocker et la rapidité d'accès à l'information désirée.
 
 ## Les fonctions du CRUD
 
