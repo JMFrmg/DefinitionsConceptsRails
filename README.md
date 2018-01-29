@@ -33,7 +33,7 @@ Le modèle se compose de trois parties distinctes :
 * Le **contrôleur** organise la mise à jour du modèle et de la vue suite aux entrées de l'utilisateur
 
 L'architecture MVC est notamment utilisée par **Ruby on Rails** pour la mise au point de sites web dynamiques.
-<br />
+
 
 ## Les routes
 
@@ -45,21 +45,20 @@ Pour plus d'informations vous pouvez consulter le site de la documentation de ra
 
 Une base de données est un ensemble de données stockées de façon structurée. Différentes données sont associées entre elles afin de faciliter leur accès ultérieur. Par exemple, un site internet peut stocker les adresses de ses utilisateurs associées à leurs noms. il suffit alors de disposer du nom de l'utilisateur pour accéder rapidement à son adresse.
 
-<br />
 ## Get/POST
 
 Les méthodes Get et POST sont des **requêtes HTTP**. Elles font parti de la catégorie des requêtes client. Elles viennent du client et sont destinées au serveur. La méthode **Get** est la requête client la plus courante. Elle **ne modifie pas la ressource**. A l'inverse, la méthode **POST modifie la ressource**.
-<br />
+
 ## Le concept de migration
 
 Les migrations sont une fonctionnalité d'Active Record. Elles facilitent les modifications de la structure et de l'organisation des bases de données. Avec les migrations, les changements dans la structure des données sont indépendants de la base de données elle-même.
 Le site de la documentation de rails consacre una article aux [migrations](http://edgeguides.rubyonrails.org/active_record_migrations.html)
-<br />
+
 ## Les relations entre les modèles et des BDD
 
 Les bases de données stockent l'information d'une façon rationnelle. Il existe plusieurs modèles d'organisation. On peut citer le modèle de base de données hiérarchique, le modèle document ou le schéma en étoile. Les principaux modèles sont listé sur ce [**site**] (https://www.lucidchart.com/pages/fr/quest-ce-quun-mod%C3%A8le-de-base-de-donn%C3%A9es)
 Le choix de tel ou tel modèle de base de données dépend d'une multitude de facteurs. On peut citer par exemple le type de données à stocker et la rapidité d'accès à l'information.
-<br />
+
 ## Les fonctions du CRUD
 
 Le CRUD est un acronyme qui désigne les quatre opérations de base de la gestion de données :
