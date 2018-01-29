@@ -22,7 +22,7 @@ La différence entre un site web dynamique un un site web statique est la techno
 
 Site statique : Page web dont le contenu est généré antérieurement à sa consultation.
 Site dynamique : Page web dont le contenu est généré postérieurement à la requête de consultation.
-<br />
+
 
 ## Le MVC
 
